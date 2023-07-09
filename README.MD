@@ -4,7 +4,7 @@
 
 ### There are two levels in the game with enemies, moving platforms, collectibles and some sweet music !!
 
-<a download href="ReadMe_Assets/Super Ball.x86_64">Download the game</a>
+<a download href="Download">Download the game</a>
 
 # Game UI : 
 
